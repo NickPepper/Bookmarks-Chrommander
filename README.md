@@ -9,7 +9,7 @@ Bookmarks Chrommander
 =====================
 
 Google Chrome browser extension. Inspired by 'Bookmark Commander' by Tom J Demuyt, but is better (hopefully).\
-For Google Chrome >= version 20.
+For Google Chrome >= version 60.
 
 
 

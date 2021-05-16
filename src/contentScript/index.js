@@ -1,8 +1,8 @@
-// If your extension doesn't need a content script, just leave this file empty
+// Cause our extension doesn't need a content script, we just leave this file empty
 
+/*
 // This is an example of a script that will run on every page. This can alter pages
 // Don't forget to change `matches` in manifest.json if you want to only change specific webpages
-printAllPageLinks()
 
 // This needs to be an export due to typescript implementation limitation of needing '--isolatedModules' tsconfig
 export function printAllPageLinks() {
@@ -17,3 +17,6 @@ export function printAllPageLinks() {
   console.log(allLinks)
   console.log('-'.repeat(30))
 }
+
+printAllPageLinks()
+*/
