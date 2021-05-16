@@ -19,17 +19,17 @@ After cloning this repo in the project directory, you can run:
 
 `$ yarn && yarn start`
 
-Then open Chrome, and unpack the newly created /dev folder to see your extension added locally to your browser.\
+Then open Chrome, and unpack the newly created `/dev` folder to see your extension added locally to your browser.\
 When you’re ready to ship your extension, create an optimized build with `$ yarn build`.\
-You can also use `$ yarn test` which launches the test runner in the interactive watch mode.\
+You can also use `$ yarn test` which launches the test runner in the interactive watch mode.
 
 
 ### Some important files
 
-- Popup UI which renders your index.js when you click on your extension in the browser extension icon.\
-- Background script which will run in the background from /background/index.js and can be use for things like state-management.\
-- Content script from /contentScript/index.js which will run on configured web pages \
-- Options UI which renders your /options/ when you click on your extension in the browser extension icon.\
+- Popup UI which renders your index.js when you click on your extension in the browser extension icon.
+- Background script which will run in the background from /background/index.js and can be use for things like state-management.
+- Content script from /contentScript/index.js which will run on configured web pages.
+- Options UI which renders your /options/ when you click on your extension in the browser extension icon.
 
 These are all controlled by the all important /public/manifest.json which is configurable by you to control what kind of extension you want build.
 
