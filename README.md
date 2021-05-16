@@ -2,15 +2,9 @@
 Bookmarks Chrommander IS UNDER CONSTRUCTION
 ===========================================
 
-So do better not clone the unfinished work. You were warned.
-
-
-Bookmarks Chrommander
-=====================
-
-Google Chrome browser extension. Inspired by 'Bookmark Commander' by Tom J Demuyt, but is better (hopefully).\
+Bookmarks Chrommander is a Google Chrome extension which allows to manage browser bookmarks in old good Midnight Commander way.\
+It is written in React and Redux cause both are cool :)\
 For Google Chrome >= version 60.
-
 
 
 ### Available Scripts
