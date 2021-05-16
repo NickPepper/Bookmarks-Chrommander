@@ -1,0 +1,7 @@
+.git
+.eslintrc.js
+coverage
+build
+www
+public
+node_modules
